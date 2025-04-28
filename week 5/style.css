@@ -1,0 +1,17 @@
+.avatar img{
+    border-radius: 50%;
+width: 200px; 
+height: 200px;
+border:solid 2px black;
+margin: auto;
+
+} 
+.body{
+    font-family: system-ui, sans-serif;
+    background-color:color-mix(in srgb, color percentage, color percentage);
+}
+.container{
+    background-color: whitesmoke;
+    
+
+}

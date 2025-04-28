@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(195, 212, 100, 0.758);
+}
+nav ul{
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    margin:  15px; /* Khoảng cách giữa các mục */
+  }

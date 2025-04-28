@@ -1,0 +1,38 @@
+.span{
+    background: yellow;
+    text-align: center;
+    display: block;
+    width: 30%;
+}
+.p{
+    background: yellow;
+color: red;
+display: block;
+text-align: center;
+width: 50%;}
+div{
+    background: black;
+    color: white;
+   font-size: 40px;
+    text-align: center;
+    display: block;
+    width:50%;
+
+}
+.small{
+    background: yellow;
+    color:black;
+    display: block;
+    text-align: center;
+    width: 30%;
+}
+.big{
+    text-decoration: underline;
+text-align: center;
+display: block;
+}
+p:hover{
+    background: red;
+    color: white;
+}
+div :active{background-color: red;}
